@@ -1,0 +1,15 @@
+.eko-project{
+    background-color: white;
+}
+.eko{
+    position:relative;
+}
+#watermark{
+    opacity: 0.2;
+    text-align: center;
+    transform: rotate(-70deg);
+    font-size: 20px;
+    font-family: sans-serif;
+    color: black;
+    margin-top: -400px;
+}
